@@ -44,8 +44,6 @@ var config_data = `
           "b1":"Blue-1<br>",
           "r2":"Red-2",
           "b2":"Blue-2<br>",
-          "r3":"Red-3",
-          "b3":"Blue-3"
         },
         "required":"true"
       },
@@ -59,7 +57,7 @@ var config_data = `
         "code":"as",
         "title": "Auto Start Position",
         "type":"field_image",
-        "filename":"2022/field_image.png"
+        "filename":"2022/2022PowerPlayField.png"
       }
     },
     "auton": {
