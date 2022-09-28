@@ -1,7 +1,7 @@
 var config_data = `
 {
   "title":"Scouting PASS 2022",
-  "page_title":"Rapid React",
+  "page_title":"Power Play",
   "elements":{
     "prematch": {
       "Scouter Initials": {
@@ -14,7 +14,7 @@ var config_data = `
       "Event":{
         "code":"e",
         "type":"event",
-        "defaultValue":"2022ilpe",
+        "defaultValue":"2122-FIM-MSCLM1",
         "required":"true",
         "disabled":"true"
       },
@@ -23,8 +23,6 @@ var config_data = `
         "type":"level",
         "choices":{
           "qm":"Quals<br>",
-          "ef":"Eighth-Final<br>",
-          "qf":"Quarter-Final<br>",
           "sf":"Semi-Final<br>",
           "f":"Final"
         },
