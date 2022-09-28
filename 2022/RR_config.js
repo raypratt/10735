@@ -53,12 +53,12 @@ var config_data = `
         "min":1,
         "max":99999
       },
-      "Auto Start Position": {
+/*      "Auto Start Position": {
         "code":"as",
         "title": "Auto Start Position",
         "type":"field_image",
         "filename":"2022/2022PowerPlayField.png"
-      }
+      } */
     },
     "auton": {
       "Taxi": {
