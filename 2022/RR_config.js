@@ -1,7 +1,7 @@
 var config_data = `
 {
   "title":"Scouting PASS 2022",
-  "page_title":"Power Play",
+  "page_title":"Rapid React",
   "elements":{
     "prematch": {
       "Scouter Initials": {
@@ -14,7 +14,7 @@ var config_data = `
       "Event":{
         "code":"e",
         "type":"event",
-        "defaultValue":"22122-FIM-MSCLM2",
+        "defaultValue":"2022ilpe",
         "required":"true",
         "disabled":"true"
       },
@@ -23,6 +23,8 @@ var config_data = `
         "type":"level",
         "choices":{
           "qm":"Quals<br>",
+          "ef":"Eighth-Final<br>",
+          "qf":"Quarter-Final<br>",
           "sf":"Semi-Final<br>",
           "f":"Final"
         },
@@ -45,7 +47,7 @@ var config_data = `
           "r2":"Red-2",
           "b2":"Blue-2<br>",
           "r3":"Red-3",
-          "b3":"Blue-3<br>",
+          "b3":"Blue-3"
         },
         "required":"true"
       },
@@ -60,7 +62,7 @@ var config_data = `
         "title": "Auto Start Position",
         "type":"field_image",
         "filename":"2022/field_image.png"
-      } 
+      }
     },
     "auton": {
       "Taxi": {
